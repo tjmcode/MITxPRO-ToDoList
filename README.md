@@ -18,7 +18,7 @@ This app implements a simple TO-DO List.
 
 ### Installing
 
-* Clone this repo and open index.html
+* Clone this repo tp your local machine.
 
 * Use "npm install" to load a simple HTTP Server for the project
 ```
