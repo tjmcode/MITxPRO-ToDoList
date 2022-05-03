@@ -35,7 +35,7 @@ http-server -c-1
 localhost:8080
 ```
 
-* Demonstration of validaproject install...
+* Demonstration of valid project install...
 
 <p align="left"><img src=".\app-example.png" width="720" title="Server ValidStartupation..."></p>
 
